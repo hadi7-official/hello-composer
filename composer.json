@@ -9,6 +9,7 @@
             "email": "hadipouri.hp99@gmail.com"
         }
     ],
+	"minimum-stability": "dev",
 	"autoload": {
 		"psr-4": {"mrcoders\\HelloWorld\\": "src/"}
 	},
