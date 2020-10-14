@@ -2,7 +2,7 @@
     "name": "mrcoders/hello-composer",
     "description": "this is test composer",
     "type": "library",
-	"version": "1.0.0",
+	"version": "1.0.1",
     "license": "MIT",
     "authors": [
         {
@@ -10,8 +10,7 @@
             "email": "hadipouri.hp99@gmail.com"
         }
     ],
-	"minimum-stability": "dev",
-	"prefer-stable": true,
+	"minimum-stability": "stable",
 	"autoload": {
 		"psr-4": {"mrcoders\\HelloWorld\\": "src/"}
 	},
