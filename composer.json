@@ -1,0 +1,14 @@
+{
+    "name": "mrcoders/hello-composer",
+    "description": "this is test composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hadi Pouresmaeil",
+            "email": "hadipouri.hp99@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
